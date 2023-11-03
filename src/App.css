@@ -1,0 +1,68 @@
+body {
+  background-image: url('travel.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.list {
+  background-color: rgb(172, 235, 100);
+  min-height: 80vh;
+  width: 500px;
+  margin: 60px auto;
+  border-radius: 70px;
+  border-style: solid;
+  border-color: rgb(234, 255, 7);
+  border-width: 4px;
+}
+h2 {
+  color: rgb(5, 75, 65);
+  display: flex;
+  justify-content: center;
+  font-family: 'Permanent Marker', cursive;
+}
+.completed {
+  text-decoration: line-through 3px black;
+}
+ul, li {
+  list-style-type: none;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+ ul {
+  padding: 0;
+}
+li {
+  font-size: 25px;
+} 
+.container {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+.add {
+  background-color: rgb(255, 128, 0);
+  margin-top: 5px;
+}
+.delete {
+  background-color: brown;
+  margin-bottom: 5px;
+}
+input {
+  border-style: solid;
+  border-color: rgb(234, 255, 7);
+  border-width: 4px;
+  cursor: pointer;
+  width: 70%;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 15px;
+}
