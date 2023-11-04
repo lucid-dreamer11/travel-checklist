@@ -3,7 +3,7 @@
   <img src="assets/demo.png" width="300" alt="demo">
 </p>
 
-<h3 style="color:orange;">What it does</h3>
+<h3>What it does</h3>
 <p>A basic check-list to help you pack the essentials (and other things!) for your upcoming trip.</p>
 
 <h3>Technologies used: </h3>
@@ -12,4 +12,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
+<h3>Limitations</h3>
+<p>Currently the project requires additional work to be done to make it mobile-scalable.</p> 
