@@ -3,7 +3,7 @@
   <img src="assets/demo.png" width="300" alt="demo">
 </p>
 
-<h3>What it does</h3>
+<h3>Usage</h3>
 <p>A basic check-list to help you pack the essentials (and other things!) for your upcoming trip.</p>
 
 <h3>Technologies used: </h3>
@@ -14,3 +14,5 @@
 
 <h3>Limitations</h3>
 <p>Currently the project requires additional work to be done to make it mobile-scalable.</p> 
+
+# How to use 
