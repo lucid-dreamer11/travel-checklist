@@ -15,4 +15,4 @@
 <h3>Limitations</h3>
 <p>Currently the project requires additional work to be done to make it mobile-scalable.</p> 
 
-# How to use 
+## How to use 
