@@ -3,10 +3,10 @@
   <img src="assets/demo.png" width="300" alt="demo">
 </p>
 
-<h4>What it does</h4>
+<h3>What it does</h3>
 <p>A basic check-list to help you pack the essentials (and other things!) for your upcoming trip.</p>
 
-<h4>Technologies used: </h4>
+<h3>Technologies used: </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
