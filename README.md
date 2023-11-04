@@ -4,7 +4,11 @@
 </p>
 
 ## About
+<<<<<<< HEAD
 A basic check-list to help you pack the essentials (and other things!) for your upcoming trip. Allows you to add, check and delete list items. 
+=======
+A basic check-list to help you pack the essentials (and other things!) for your upcoming trip.
+>>>>>>> e2b17276da94caa8630a792e998994fcbfaa80fa
 
 ## Technologies used:
 
@@ -30,5 +34,8 @@ $ npm start
 ```
 ## Limitations
 Currently the project requires additional work to be done to scale it for mobile devices.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> e2b17276da94caa8630a792e998994fcbfaa80fa
