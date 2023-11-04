@@ -27,6 +27,7 @@ $ npm install
 
 # Run the app
 $ npm start
+$ Visit http://localhost:3000 in your browser to see the application running.
 ```
 ## Limitations
 Currently the project requires additional work to be done to scale it for mobile devices.
