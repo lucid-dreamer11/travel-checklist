@@ -30,3 +30,6 @@ $ npm start
 ```
 ## Limitations
 Currently the project requires additional work to be done to scale it for mobile devices.
+
+## Acknowledgements 
+Thanking Alla's CanSheCode programming school for the inspiration with this study project. 
